@@ -3,7 +3,7 @@ Interface to Wannier90
 
 # Done
  1. fully in terms of PWs (QE, VASP)
- 2. exploit symmetry with SO (QE, VASP): 
+ 2. exploit symmetry with SO (QE, VASP)
  3. parallelization (QE, VASP)
  4. compatible with wannier90 2.1 (QE, VASP)
  5. NC, USPP, and PAW with SO (QE)
