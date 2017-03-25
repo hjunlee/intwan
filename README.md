@@ -1,5 +1,5 @@
 # intwan
-Interface to Wannier90
+The Intwan is the new interface to Wannier90. Currently, it interfaces QE and VASP to the latest (2.1) wannier90.
 
 # Done
  1. fully in terms of PWs (QE, VASP)
