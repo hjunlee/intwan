@@ -12,7 +12,7 @@ The Intwan is the new interface to Wannier90. Currently, it interfaces QE and VA
  1. paw one-center: necessary?
  2. complete current recipes for symmetry-adapted WFs
  or adopt R. Sakuma's recipe: check wannier90 2.1
- 3. automatize construction of WFs
-   (1) J.I. Mustafa: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.165134
+ 3. automatize construction of WFs:   
+   (1). J.I. Mustafa: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.92.165134
  4. complete current recipes for WFs with GW and Hybrid
  5. Wien2k+DMFT
